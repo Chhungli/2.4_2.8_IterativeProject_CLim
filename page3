@@ -1,0 +1,105 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+
+	<title>Tawa College EOTC Website</title>
+	<link rel="icon" type="image/x-icon" href="images/school.png">
+    <meta charset="utf-8">
+    <meta name="keywords" content="Outdoor Activities, Community Service, Adrenaline Forest, Swimming">
+    <meta name="author" content="Chhungli Lim">
+    <meta name="description" content="Tawa College EOTC Website">
+
+    <!-- Import the web page's style sheet -->
+   <link rel="stylesheet" href="css/style_v5.css">
+  
+	<!--icons for nav bar -->
+	<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.6.0/css/all.min.css" integrity="sha512-Kc323vGBEqzTmouAECnVceyQqyqdsSiqLQISBL29aUW4U/M7pSPA/gEUZQqv1cwx4OnYxTxve5UMg5GT6L4JJg==" crossorigin="anonymous" referrerpolicy="no-referrer" />
+	
+</head>
+
+<body>
+	
+	<!-- School Logo (newly added, sits top-left) -->
+    <div class="logo-container">
+        <img src="images/tc_logo.png" alt="Tawa College Logo" class="logo">
+    </div>
+	
+	<div id="info">
+    <!-- this is where my website content goes -->
+
+    <div class="grid-container">
+		
+		<!-- this class is for my navigation/menu-->
+		<div class="nav">
+			
+			<ul>
+	
+	<li><a href="index.html"><i class="fa-solid fa-house"></i>   Home</a></li>
+	
+	<li><i class="fa-solid fa-person-running"></i>  Activities
+    	<ul>
+        	<li><a href="page2.html">Outdoor Activities</a></li>
+        	<li><a href="page3.html">Adrenalin + Pool</a></li>
+    	</ul>
+	</li>
+				
+	<li><a href="page4.html"><i class="fa-solid fa-users"></i>    Community Service</a></li>
+				
+	<li><a href="contact.html"><i class="fa-solid fa-phone"></i>    Contact</a></li>
+	
+	</ul>
+			
+		</div>
+	
+        <div class="header">Tawa College EOTC Week</div>
+		
+       <div class="content">
+           <div class="scroll-area">
+			<!--this is where my writing goes -->	   
+			   
+			   <h1>Adrenalin Forest + Te Rauparaha Arena Aquatic Centre</h1>
+			   
+			   <div class="photo-section">
+				   
+  				<div class="photo-gallery">
+   					 <img src="images/Adrenalin.jpg" alt="Adrenalin">
+    				 <img src="images/Forest.jpg" alt="Forest">
+    				 <img src="images/Tree.jpg" alt="Zipline fun">
+  				</div>
+				</div>
+			   
+			   <div class="box-container">
+			   
+			   	<div class="box">
+		<p>Meeting time and location: Tawa train station at 8.15am underneath the pedestrian overbridge. What to bring: A day pack with your lunch, water bottle, sun hat, a warm jumper and rain jacket if the weather forecast is bad, togs and a towel. Please wear appropriate sports clothes for climbing. No denim please! Any medication required. Students will meet at Tawa train station where the roll will be taken. Please gather with your form class for the roll and if you are running late, you must find a teacher and let them know you have arrived. Students will catch the 8.28am train to Porirua and then walk as a group to Adrenalin Forest. We need to catch this earlier train to ensure we start climbing on time. If students absolutely cannot make this train (as I realise that it is before the start of school time) there will be one teacher waiting at the train station for any late students and they will catch the 8.48am train. This is an absolute back up and is only an option for those that cannot possibly make it earlier. These students will be late for the start of the climbing and will not get their full 3 hours.</p>
+	</div>
+	<div class="box">
+		<p>If your whanau lives in Porirua and students will meet us at Adrenalin Forest, please wait at the entrance to Adrenalin Forest and let a teacher know when the group gets there so we can update the roll and let school know you are in our care. After a safety briefing students have 3 hours to climb and test yourselves. After having some lunch we will leave Adrenalin Forest and walk to Te Rauparaha Arena, where students have use of the whole of the main pool, spas, sauna, steam room, hydroslide and deep water swimming lane. If students are not swimming there is an outside area off the side of the main pool where they can relax. If you indicated on the permission form that students can leave by themselves directly from the pool as they live in the local area, they will be dismissed from here at around 2.15pm. The rest of the group will walk back to Porirua station and catch the 2.39pm train back to Tawa station where they will be dismissed.
+
+</p>
+	</div>
+			   </div>
+			   
+			   <div class="iframe">
+				
+					<iframe width="560" height="315" src=
+					"https://www.youtube.com/embed/qyYwmQmYjXw?si=2yhKbI_f8VZNhsiU" frameborder="0" 
+					allowfullscreen></iframe>
+				
+			  </div>
+			   
+			   <div class="container">
+				   
+    				</div>
+			   
+           	 		</div>
+        		</div>
+
+        	<button onclick="topFunction()" id="myBtn" title="Go to top">Top</button>
+
+        <div class="footer">Chhungli Lim © copyright, all rights reserved, 2025.</div>
+		
+	</div>
+		
+<script type="text/javascript" src="js/backtotop.js"></script>
