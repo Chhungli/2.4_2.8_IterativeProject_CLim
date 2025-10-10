@@ -1,0 +1,99 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+
+	<title>Tawa College EOTC Website</title>
+	<link rel="icon" type="image/x-icon" href="images/school.png">
+    <meta charset="utf-8">
+    <meta name="keywords" content="Outdoor Activities, Community Service, Adrenaline Forest, Swimming">
+    <meta name="author" content="Chhungli Lim">
+    <meta name="description" content="Tawa College EOTC Website">
+
+    <!-- Import the web page's style sheet -->
+   <link rel="stylesheet" href="css/style_v5.css">
+  
+	<!--icons for nav bar -->
+	<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.6.0/css/all.min.css" integrity="sha512-Kc323vGBEqzTmouAECnVceyQqyqdsSiqLQISBL29aUW4U/M7pSPA/gEUZQqv1cwx4OnYxTxve5UMg5GT6L4JJg==" crossorigin="anonymous" referrerpolicy="no-referrer" />
+	
+</head>
+
+<body>
+	
+	<!-- School Logo (newly added, sits top-left) -->
+    <div class="logo-container">
+        <img src="images/tc_logo.png" alt="Tawa College Logo" class="logo">
+    </div>
+	
+	<div id="info">
+    <!-- this is where my website content goes -->
+
+    <div class="grid-container">
+		
+		<!-- this class is for my navigation/menu-->
+		<div class="nav">
+			
+			<ul>
+	
+	<li><a href="index.html"><i class="fa-solid fa-house"></i>   Home</a></li>
+	
+	<li><i class="fa-solid fa-person-running"></i>  Activities
+    	<ul>
+        	<li><a href="page2.html">Outdoor Activities</a></li>
+        	<li><a href="page3.html">Adrenalin + Pool</a></li>
+    	</ul>
+	</li>
+				
+	<li><a href="page4.html"><i class="fa-solid fa-users"></i>    Community Service</a></li>
+				
+	<li><a href="contact.html"><i class="fa-solid fa-phone"></i>    Contact</a></li>
+	
+	</ul>
+			
+		</div>
+	
+        <div class="header">Tawa College EOTC Week</div>
+		
+       <div class="content">
+           <div class="scroll-area">
+			<!--this is where my writing goes -->	   
+			   
+			   <h1>Community Service</h1>
+			   
+			   <p>Students will complete one day of community service assisting local residents and businesses. This will usually occur within walking distance of Tawa College for all Year 10 students. This day has the key focus of citizenship and has been a great success in previous years.</p>
+			   
+			   <div class="photo-section">
+				   
+  				<div class="photo-gallery">
+   					 <img src="images/Group.jpg" alt="Group">
+    				 <img src="images/Window.JPG" alt="Window">
+    				 <img src="images/Bin.JPG" alt="Bin">
+  				</div>
+				</div>
+			   
+			   <div class="box-container">
+			   
+			   	<div class="box">
+			<p>Students will spend a day completing community service in a small group with friends in the Tawa basin, supervised by a staff member. This is a highly valuable experience where students have the chance to interact with the elderly helping them with gardening, painting etc or assisting 				local food banks, kindergartens, hospice shops and charities for the day. Students will usually walk to their allocated job with a staff member, however a very small number of jobs will be on the fringes of the Tawa Basin and therefore they may be driven by a staff member in their				   groups.</p>
+					
+		</div>
+				   
+				<div class="box">
+			<p>Meeting time and location: The school gym at 9.15am. What to bring: A day pack with your lunch, water bottle, sun hat, a warm jumper and rain jacket if the weather forecast is bad. It will still go ahead unless there is torrential rain. Please wear appropriate old clothes for potential 				 gardening/painting jobs and closed toed shoes. Bring any medication required.</p>
+		</div>
+			   </div>
+			   
+			   <div class="container">
+				   
+    				</div>
+			   
+           	 		</div>
+        		</div>
+
+        	<button onclick="topFunction()" id="myBtn" title="Go to top">Top</button>
+
+        <div class="footer">Chhungli Lim © copyright, all rights reserved, 2025.</div>
+		
+	</div>
+		
+<script type="text/javascript" src="js/backtotop.js"></script>
