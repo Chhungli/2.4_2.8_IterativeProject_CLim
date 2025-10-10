@@ -1,0 +1,105 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+
+	<title>Tawa College EOTC Website</title>
+	<link rel="icon" type="image/x-icon" href="images/school.png">
+    <meta charset="utf-8">
+    <meta name="keywords" content="Outdoor Activities, Community Service, Adrenaline Forest, Swimming">
+    <meta name="author" content="Chhungli Lim">
+    <meta name="description" content="Tawa College EOTC Website">
+
+    <!-- Import the web page's style sheet -->
+   <link rel="stylesheet" href="css/style_v5.css">
+  
+	<!--icons for nav bar -->
+	<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.6.0/css/all.min.css" integrity="sha512-Kc323vGBEqzTmouAECnVceyQqyqdsSiqLQISBL29aUW4U/M7pSPA/gEUZQqv1cwx4OnYxTxve5UMg5GT6L4JJg==" crossorigin="anonymous" referrerpolicy="no-referrer" />
+	
+</head>
+
+<body>
+	
+	<!-- School Logo (newly added, sits top-left) -->
+    <div class="logo-container">
+        <img src="images/tc_logo.png" alt="Tawa College Logo" class="logo">
+    </div>
+	
+	<div id="info">
+    <!-- this is where my website content goes -->
+
+    <div class="grid-container">
+		
+		<!-- this class is for my navigation/menu-->
+		<div class="nav">
+			
+			<ul>
+	
+	<li><a href="index.html"><i class="fa-solid fa-house"></i>   Home</a></li>
+	
+	<li><i class="fa-solid fa-person-running"></i>  Activities
+    	<ul>
+        	<li><a href="page2.html">Outdoor Activities</a></li>
+        	<li><a href="page3.html">Adrenalin + Pool</a></li>
+    	</ul>
+	</li>
+				
+	<li><a href="page4.html"><i class="fa-solid fa-users"></i>    Community Service</a></li>
+				
+	<li><a href="contact.html"><i class="fa-solid fa-phone"></i>    Contact</a></li>
+	
+	</ul>
+			
+		</div>
+	
+        <div class="header">Tawa College EOTC Week</div>
+		
+       <div class="content">
+           <div class="scroll-area">
+			<!--this is where my writing goes -->	
+			   
+			   <h1>Contact us | Whakapakā Mai</h1>
+			   
+			   <div class="container">
+					   
+						<div class="contact-grid">
+							
+  						<div class="contact-box">
+							
+   		 				<h3>Emails</h3>
+    					<p>EMAIL: <a href="mailto:secretary@tawacollege.school.nz">secretary@tawacollege.school.nz</a></p>
+    					<p>EMAIL: <a href="mailto:redmonds@tawacollege.school.nz">redmonds@tawacollege.school.nz</a></p>
+    					<i class="fa-solid fa-envelope fa-3x"></i>
+							
+  				</div>
+
+  						<div class="contact-box">
+							
+    					<h3>Phone Number</h3>
+    					<p>PH: 232 8184</p>
+    					<i class="fa-solid fa-phone fa-3x"></i>
+							
+  				</div>
+							
+  						<div class="contact-box">
+							
+    					<h3>School Address</h3>
+    					<p>38A Duncan Street, Tawa, Wellington, 5028</p>
+    					<i class="fa-solid fa-location-dot fa-3x"></i>
+							
+  				</div>
+			</div>
+				   
+    				</div>
+			   
+           	 		</div>
+			   
+        		</div>
+
+        	<button onclick="topFunction()" id="myBtn" title="Go to top">Top</button>
+
+        <div class="footer">Chhungli Lim © copyright, all rights reserved, 2025.</div>
+		
+	</div>
+		
+<script type="text/javascript" src="js/backtotop.js"></script>
