@@ -1,0 +1,230 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+
+	<title>Tawa College EOTC Website</title>
+	<link rel="icon" type="image/x-icon" href="images/school.png">
+    <meta charset="utf-8">
+    <meta name="keywords" content="Outdoor Activities, Community Service, Adrenaline Forest, Swimming">
+    <meta name="author" content="Chhungli Lim">
+    <meta name="description" content="Tawa College EOTC Website">
+
+    <!-- Import the web page's style sheet -->
+   <link rel="stylesheet" href="css/style_v5.css">
+  
+	<!--icons for nav bar -->
+	<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.6.0/css/all.min.css" integrity="sha512-Kc323vGBEqzTmouAECnVceyQqyqdsSiqLQISBL29aUW4U/M7pSPA/gEUZQqv1cwx4OnYxTxve5UMg5GT6L4JJg==" crossorigin="anonymous" referrerpolicy="no-referrer" />
+	
+</head>
+
+<body>
+	
+	<!-- School Logo (newly added, sits top-left) -->
+    <div class="logo-container">
+        <img src="images/tc_logo.png" alt="Tawa College Logo" class="logo">
+    </div>
+	
+	<div id="info">
+    <!-- this is where my website content goes -->
+
+    <div class="grid-container">
+		
+		<!-- this class is for my navigation/menu-->
+		<div class="nav">
+			
+			<ul>
+	
+	<li><a href="index.html"><i class="fa-solid fa-house"></i>   Home</a></li>
+	
+	<li><i class="fa-solid fa-person-running"></i>  Activities
+    	<ul>
+        	<li><a href="page2.html">Outdoor Activities</a></li>
+        	<li><a href="page3.html">Adrenalin + Pool</a></li>
+    	</ul>
+	</li>
+				
+	<li><a href="page4.html"><i class="fa-solid fa-users"></i>    Community Service</a></li>
+				
+	<li><a href="contact.html"><i class="fa-solid fa-phone"></i>    Contact</a></li>
+	
+	</ul>
+			
+		</div>
+	
+        <div class="header">Tawa College EOTC Week</div>
+		
+       <div class="content">
+           <div class="scroll-area">
+			<!--this is where my writing goes -->	   
+			   
+			   <h1>Rangituhi Walk</h1>
+			   
+			   <div class="box"><p>A private bus will drop students at the start of the Rangituhi walkway. Teachers will help students navigate the path to the lookout and then up to the summit of Rangituhi. From here students will traverse the tops and then pop down into Te Ngahere o Tawa. Students will spend more time on the walk learning about reading maps, trees and leaves, local places of interest from viewpoints etc. There is also a $50 prezzy card as a prize for activities students can complete on the way.</p>
+		</div>
+			   
+			   <div class="photo-section">
+				   
+  				<div class="photo-gallery">
+   					 <img src="images/rangituhii.JPG" alt="Group briefing">
+    				 <img src="images/rangituhiii.jpg" alt="Harness and trees">
+    				 <img src="images/rangituhiiii.JPG" alt="Zipline fun">
+  				</div>
+				</div>
+			   
+			   <div class="camp-container">
+
+  			 <h1>Camp Wainui</h1>
+
+  			 <!-- Day 1 + Day 2 side by side -->
+				   
+  			 <div class="camp-days">
+					
+    			<!-- Box 1 -->
+					
+    			<div class="camp-box">
+					
+      			<h2>Day 1</h2>
+					
+      			<p><strong>Meeting time and location:</strong> The front of the school hall - look for your form class when you arrive. Form classes will be grouped together around the perimeter of the car park here. You need to be at school for 8.30am. Students will congregate with his form class. 				He will need to have his day pack/ backpack with:</p>
+					
+      		 <ol>
+        		<li>Lunch</li>
+        		<li>Water bottle</li>
+        		<li>Sun hat</li>
+        		<li>Warm jumper/thermal</li>
+        		<li>Rain jacket</li>
+      		</ol>
+					
+      		<p>In addition, he will have one overnight bag (with gear listed below) and a tent if you are providing one. The day pack must be separate from the overnight bag. Please wear appropriate sports clothing with lace up sports shoes with good grip. No denim please. Bring your own medication 			   if required.</p>
+					
+      		<p>Once the roll has been taken we will catch a private bus to Wainui. Students will be taken straight to camp Wainui where he will first construct a tent with his friends and put his overnight bag inside. We have a large camping area at the back of the camp as well as the use of the hall 				 and kitchen and toilets in the huts. There are a few showers available but we would strongly discourage the use of the showers where possible as it takes a while for 260 people to shower and we are only away for one night.</p>
+					
+      		<p><strong>From here students will rotate through three activities at the camp, stopping for lunch between activities. The activities here are:</strong></p>
+					
+      		<ol>
+        		<li>Raft building (includes fitting lifejackets and using throw ropes)</li>
+        		<li>Emergency bivvy making</li>
+        		<li>Search and rescue skills and team challenges</li>
+      		</ol>
+					
+      		<p>There will be some relaxing time before dinner in the hall. Dinner: chilli mince and pasta (veg option available) with grated cheese, bread rolls, tinned fruit and ice cream. In the evening we will play camp games before lights out at around 9.30pm.</p>
+    	</div>
+
+    	<!-- Box 2 -->
+				 
+    	<div class="camp-box">
+			
+      	<h2>Day 2</h2>
+			
+      		<p>We will wake nice and early and have a breakfast of cereals, toast and spreads. Tents will be packed down and overnight bags packed. These will be left in a pile ready for the buses to pick them up in the afternoon. Students will take their day pack with:</p>
+			
+      	 <ol>
+        	<li>Second lunch</li>
+        	<li>Water bottle</li>
+        	<li>Rain jacket</li>
+        	<li>Warm top/hat</li>
+    	</ol>
+			
+      		<p>From here we will bus 7km down the road to the Catchpool carpark in the Remutaka Valley Park. Then we walk the Orongorongo track (5.2km each way). <strong>Note:</strong> there is a DOC detour at the end of the track due to a slip.</p>
+			
+			<p><strong>On the way students will learn:</strong></p>
+			
+      	<ol>
+        	<li>Map reading skills</li>
+        	<li>About local flora and fauna</li>
+        	<li>How to build hobo stoves for bush cooking</li>
+        	<li>River crossing safety (if conditions allow)</li>
+      	</ol>
+			
+      		<p>If the river is too high or fast flowing this activity will be cancelled. We will then walk back to the car park and a private bus will transport us back to school for around 3.30pm.</p>
+			
+    	</div>
+  	</div>
+
+  		<!-- Reminders + Gear List stacked -->
+				   
+  <div class="camp-reminders">
+	  
+    <!-- Box 3 -->
+	  
+    <div class="camp-box wide">
+		
+      <h2>Reminders</h2>
+		
+      <ol>
+        <li>There is very limited cell phone coverage at camp. In emergencies, contact the school during school hours or Camp Wainui after hours (04) 564 5305.</li>
+        <li>Students should bring a power bank or put phones in aeroplane mode to save battery. They should not be on devices while away.</li>
+        <li>No alcohol, vaping, smoking, drugs. Rules must be followed at all times. Breaking rules = pick up + consequences at school. Lights out = stay in own tents.</li>
+        <li>If you have not paid, please do so immediately. Cost is $80. Internet banking: Tawa College, 123192-0011938-00, ref: “Calitz, Joshua, EOTC”.</li>
+        <li>Bring packed lunches for both days. Ensure enough food for 10km walk + activities. Water bottles can be refilled from taps.</li>
+      </ol>
+		
+    </div>
+
+    <!-- Box 4 -->
+	  
+    <div class="camp-box wide">
+		
+      <h2>Gear List for Camp</h2>
+
+      	<p><strong>In your day pack:</strong></p>
+		
+      		<ol>
+        		<li>Lunch, water bottle, sun hat, sunscreen</li>
+        		<li>Warm jumper/thermal and rain jacket</li>
+        		<li>Any personal medication (label with name + form class)</li>
+      		</ol>
+
+      <p><strong>In your overnight bag:</strong></p>
+		
+      		<ol>
+        		<li>Pyjamas, torch, sleeping bag, warm clothes, warm hat</li>
+        		<li>Small towel, togs (for lagoon raft building)</li>
+        		<li>Toothbrush + toothpaste</li>
+        		<li>Packed lunch for second day</li>
+        		<li>Roll mat or inflatable mattress (recommended)</li>
+        		<li>Any medication / sanitary items (labelled)</li>
+      		</ol>
+
+      <p><strong>Optional items:</strong></p>
+		
+      		<ol>
+        		<li>Pillow case (stuff with clothes)</li>
+        		<li>Snacks for night time</li>
+        		<li>Sports ball / playing cards</li>
+        		<li>Insect repellent</li>
+        		<li>Slides/jandals for evening</li>
+        		<li><em>Please leave speakers at home</em></li>
+      		</ol>
+
+      <p><strong>Tent/sleeping bags:</strong> If your family can provide, label with name + form class. Parents: check tent pegs, ropes, etc. so all gear is returned.</p>
+
+      <p><strong>Note:</strong> I will be on the camps for four days with limited reception. If problems arise, please contact the school office.</p>
+		
+    </div>
+  </div>
+
+</div>	   
+			   <div class="iframe">
+				
+					<iframe width="560" height="315" src=
+					"https://www.youtube.com/embed/sk4nk-REHH0?si=oScjAM7y2L7CpMbc" frameborder="0" 
+					allowfullscreen></iframe>
+				
+			  </div>
+			   
+			   <div class="container">
+				   
+    				</div>
+			   
+           	 		</div>
+        		</div>
+
+        	<button onclick="topFunction()" id="myBtn" title="Go to top">Top</button>
+
+        <div class="footer">Chhungli Lim © copyright, all rights reserved, 2025.</div>
+		
+	</div>
+		
+<script type="text/javascript" src="js/backtotop.js"></script>
